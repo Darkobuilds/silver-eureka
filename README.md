@@ -1,2 +1,14 @@
-# silver-eureka
-LeaseGuard Lite is a Python Streamlit app that analyzes commercial lease text for risky clauses and calculates risk‑adjusted Net Operating Income (NOI). It uses keyword detection to flag potential liabilities, demonstrating how data analysis can support real estate due diligence.
+# LeaseGuard Lite
+
+Commercial Real Estate lease risk scanner built with Streamlit.
+
+Features:
+- Lease clause risk detection
+- NOI calculation
+- Risk-adjusted NOI
+- Risk scoring
+
+Run locally:
+
+pip install -r requirements.txt
+streamlit run app.py
